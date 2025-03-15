@@ -43,7 +43,7 @@ local ViewScale = require("viewscale")
 
 ```lua
 function love.load()
-    ViewScale.load(1280, )
+    ViewScale.load(1280, 800)
 end
 ```
 
