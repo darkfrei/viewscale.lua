@@ -36,7 +36,8 @@ lightweight and flexible scaling library for LOVE2D
 local ViewScale = require("viewscale")
 ```
 
-3️⃣ Call ViewScale.load() in love.load().4️⃣ Call ViewScale.push() before drawing and ViewScale.pop() after.
+3️⃣ Call ViewScale.load() in love.load().
+4️⃣ Call ViewScale.push() before drawing and ViewScale.pop() after.
 
 ## 📝 Usage Example
 
