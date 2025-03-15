@@ -29,7 +29,8 @@ lightweight and flexible scaling library for LOVE2D
 
 ## 🚀 Installation
 
-1️⃣ Place `viewscale.lua` in your project folder.  
+1️⃣ Place `viewscale.lua` in your project folder.
+
 2️⃣ Require it in your `main.lua`:
 
 ```lua
@@ -37,6 +38,7 @@ local ViewScale = require("viewscale")
 ```
 
 3️⃣ Call ViewScale.load() in love.load().
+
 4️⃣ Call ViewScale.push() before drawing and ViewScale.pop() after.
 
 ## 📝 Usage Example
