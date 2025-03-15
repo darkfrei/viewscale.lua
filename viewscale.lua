@@ -1,4 +1,5 @@
 --  viewscale.lua
+-- 2025-23-15
 
 local ViewScale = {
 	baseWidth = 1280,
