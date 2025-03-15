@@ -59,7 +59,7 @@ function love.resize(w, h)
 end
 ```
 
-# 3. Apply Scaling in **love.draw()
+# 3. Apply Scaling in **love.draw()**
 
 ```lua
 function love.draw()
